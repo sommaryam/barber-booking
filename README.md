@@ -19,48 +19,12 @@ A full-featured barber booking application built with **Laravel** (backend) and 
 - **Backend:** Laravel, MySQL
 - **API Authentication:** Laravel Sanctum
 
-## Installation
 
-### Backend (Laravel)
-1. Navigate to the backend folder:
-    ```bash
-    cd backend
-    ```
-2. Install the dependencies:
-    ```bash
-    composer install
-    ```
-3. Create your `.env` file:
-    ```bash
-    cp .env.example .env
-    ```
-4. Generate the application key:
-    ```bash
-    php artisan key:generate
-    ```
-5. Run the migrations:
-    ```bash
-    php artisan migrate
-    ```
-6. Start the Laravel development server:
-    ```bash
-    php artisan serve
-    ```
 
-### Frontend (React)
-1. Navigate to the frontend folder:
-    ```bash
-    cd frontend
-    ```
-2. Install the dependencies:
-    ```bash
-    npm install
-    ```
-3. Start the React development server:
-    ```bash
-    npm start
-    ```
+  <img src="barberHome.png" alt="Home Page" width="700"/>
+  <img src="Screenshot (152).png" alt="Home Page" width="700"/>
+  <img src="Screenshot (153).png" alt="Home Page" width="700"/>
+  
+  
 
-## Author
 
-- GitHub: [@sommaryam](https://github.com/sommaryam)
